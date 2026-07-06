@@ -3,3 +3,7 @@ DevOps Project 2
 Learning Git
 
 First Commit
+
+Second Commit
+
+Learning GitHub Desktop
